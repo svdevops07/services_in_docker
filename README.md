@@ -3,4 +3,8 @@ Hier are services for quick start in containers
 
 ## Hier are:
 
-nexus3
+- nexus3
+'''
+cd docker-nexus3
+docker-compose up
+'''
