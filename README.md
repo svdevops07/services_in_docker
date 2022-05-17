@@ -11,7 +11,7 @@ git clone https://github.com/svdevops07/services_in_docker.git
 
 Access: http://ip:8081/
 ```
-chmod 777 /usr/local/docker/nexus/data
 cd docker-nexus3
 docker-compose up
+chmod 777 /usr/local/docker/nexus/data
 ```
