@@ -5,6 +5,8 @@ Hier are services for quick start in containers
 
 - nexus3
 '''
+chmod 777 /usr/local/docker/nexus/data
 cd docker-nexus3
 docker-compose up
 '''
+Access: http://<ip>:8081/

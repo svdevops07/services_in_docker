@@ -1,2 +1,9 @@
-Source:
+Source repo:
 https://github.com/sonatype/docker-nexus3
+
+Source instruction:
+https://russianblogs.com/article/58271015382/
+
+Access: http://<ip>:8081/
+User: admin
+Password: cat /usr/local/docker/nexus/data/admin.password

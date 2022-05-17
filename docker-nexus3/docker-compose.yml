@@ -1,7 +1,7 @@
 version: "3.1"
-
 services:
   nexus:
+#    restart: always
     image: sonatype/nexus3
     container_name: nexus3
     volumes:
