@@ -7,3 +7,4 @@ https://russianblogs.com/article/58271015382/
 Access: http://<ip>:8081/
 User: admin
 Password: cat /usr/local/docker/nexus/data/admin.password
+          cat /home/nexus/data/admin.password
