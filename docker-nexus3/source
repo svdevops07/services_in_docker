@@ -8,3 +8,6 @@ Access: http://<ip>:8081/
 User: admin
 Password: cat /usr/local/docker/nexus/data/admin.password
           cat /home/nexus/data/admin.password
+Plugins for Jenkins:
+* Nexus Artifact UploaderVersion
+* Pipeline Utility StepsVersion
