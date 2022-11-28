@@ -16,6 +16,16 @@ chmod 777 domain.key
 chmod 777 domain.crt
 ```
 
+OR
+
+```
+cd /etc/letsencrypt/live/domain.example.com/
+cp privkey.pem domain.key
+cat cert.pem chain.pem > domain.crt
+chmod 777 domain.crt
+chmod 777 domain.key
+```
+
 ## 3. Make directory for registry's files and generate user/pass
 
 ```
